@@ -1,0 +1,12 @@
+C:\Users\yanni\source\repos\StoreServiceApp\StoreServiceApp\bin\StoreServiceApp.dll.config
+C:\Users\yanni\source\repos\StoreServiceApp\StoreServiceApp\bin\StoreServiceApp.dll
+C:\Users\yanni\source\repos\StoreServiceApp\StoreServiceApp\bin\StoreServiceApp.pdb
+C:\Users\yanni\source\repos\StoreServiceApp\StoreServiceApp\bin\EntityFramework.dll
+C:\Users\yanni\source\repos\StoreServiceApp\StoreServiceApp\bin\EntityFramework.SqlServer.dll
+C:\Users\yanni\source\repos\StoreServiceApp\StoreServiceApp\bin\EntityFramework.xml
+C:\Users\yanni\source\repos\StoreServiceApp\StoreServiceApp\bin\EntityFramework.SqlServer.xml
+C:\Users\yanni\source\repos\StoreServiceApp\StoreServiceApp\obj\Debug\StoreServiceApp.csproj.CoreCompileInputs.cache
+C:\Users\yanni\source\repos\StoreServiceApp\StoreServiceApp\obj\Debug\StoreServiceApp.csproj.CopyComplete
+C:\Users\yanni\source\repos\StoreServiceApp\StoreServiceApp\obj\Debug\StoreServiceApp.dll
+C:\Users\yanni\source\repos\StoreServiceApp\StoreServiceApp\obj\Debug\StoreServiceApp.pdb
+C:\Users\yanni\source\repos\StoreServiceApp\StoreServiceApp\obj\Debug\StoreServiceApp.csprojAssemblyReference.cache
